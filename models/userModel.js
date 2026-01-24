@@ -7,6 +7,7 @@
     "age": 23
 }
  */
+
 let userArray = [];
 
 let nextId = 1;

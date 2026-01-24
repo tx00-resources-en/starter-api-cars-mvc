@@ -1,5 +1,6 @@
 const User = require("../models/userModel");
 
+
 // GET /users
 const getAllUsers = (req, res) => {
   res.json({ message: "Hello from getAll" });

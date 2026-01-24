@@ -22,4 +22,5 @@ router.get('/', getAllUsers);
 
 // DELETE /users/:userId
 
+
 module.exports = router;

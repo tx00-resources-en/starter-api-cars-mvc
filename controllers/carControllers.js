@@ -1,5 +1,6 @@
 const Car = require("../models/carModel");
 
+
 // GET /cars
 const getAllCars = (req, res) => {
   const cars = Car.getAll();
